@@ -1,0 +1,17 @@
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/datasources/impl/AlbumDatasourcesLocalImpl.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/repositories/AlbumRepositoryImpl.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/domain/repositories/AlbumRepository.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/domain/usecases/GetAlbum.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/domain/usecases/GetAlbums.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/core/exeptions/AlbumException.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/CleanCodeArchitetureUserApplication.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/domain/usecases/CreateAlbum.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/datasources/JpaAlbumRepository.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/datasources/AlbumDatasourcesLocal.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/controllers/AlbumRequest.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/core/configurations/SwaggerConfig.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/domain/usecases/DeleteAlbum.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/controllers/AlbumController.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/controllers/AlbumResponse.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/domain/entities/Album.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/clean-architeture-album/src/main/java/com/thekingoftech/app/album/data/models/AlbumModel.java
