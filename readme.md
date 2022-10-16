@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mer10z/angular-splunk-logger.svg)](https://travis-ci.org/mer10z/angular-splunk-logger)
+[![Build Status](https://app.travis-ci.com/kaiofelixdeoliveira/clean-architeture-album.svg?branch=master)](https://app.travis-ci.com/kaiofelixdeoliveira/clean-architeture-album)
 [![Coverage Status](https://coveralls.io/repos/github/mer10z/angular-splunk-logger/badge.svg?branch=master)](https://coveralls.io/github/mer10z/angular-splunk-logger?branch=master)
 
 ### Reference Documentation
