@@ -1,4 +1,5 @@
-# Getting Started
+[![Build Status](https://travis-ci.org/mer10z/angular-splunk-logger.svg)](https://travis-ci.org/mer10z/angular-splunk-logger)
+[![Coverage Status](https://coveralls.io/repos/github/mer10z/angular-splunk-logger/badge.svg?branch=master)](https://coveralls.io/github/mer10z/angular-splunk-logger?branch=master)
 
 ### Reference Documentation
 For further reference, please consider the following sections:
