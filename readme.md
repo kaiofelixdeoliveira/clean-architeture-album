@@ -1,4 +1,5 @@
-![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/kaiofelixdeoliveira/clean-architeture-album?style=for-the-badge)
 
 
 
