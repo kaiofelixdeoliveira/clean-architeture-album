@@ -1,4 +1,5 @@
-![Build Status](https://img.shields.io/github/checks-status/kaiofelixdeoliveira/clean-architeture-album/master?style=for-the-badge)
+![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+
 
 
 ### Reference Documentation
