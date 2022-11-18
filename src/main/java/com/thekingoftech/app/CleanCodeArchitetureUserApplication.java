@@ -33,6 +33,7 @@ public class CleanCodeArchitetureUserApplication {
 		beanDefinitionScanner.addIncludeFilter(removeModelAndEntitiesFilter());
 		beanDefinitionScanner.scan("com.thekingoftech.app");
 	}
+	
 
 	static TypeFilter removeModelAndEntitiesFilter() {
 		return (MetadataReader mr,
